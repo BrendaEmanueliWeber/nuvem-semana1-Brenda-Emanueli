@@ -1,9 +1,9 @@
 # Semana 1 - Deploy estatico (GitHub Pages)
 ## Links
-- Repositorio: COLE_AQUI
-- Site (GitHub Pages): COLE_AQUI
+- Repositorio: nuvem-semana1-Brenda-Emanueli
+- Site (GitHub Pages): https://brendaemanueliweber.github.io/nuvem-semana1-Brenda-Emanueli/ 
 ## O que foi feito
 - Criei index.html, style.css e script.js pelo navegador
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
-- (escreva 1-3 linhas)
+- Não houve dificuldaes na realização da atividade, já tenho experiência com o github pages devido a meu projeto integrador do ano passado. Além disso as instruções estavam bem claras no pdf disponibilizado para a atividade.
