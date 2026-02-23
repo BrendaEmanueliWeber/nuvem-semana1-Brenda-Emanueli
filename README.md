@@ -6,4 +6,4 @@
 - Criei index.html, style.css e script.js pelo navegador
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
-- Não houve dificuldaes na realização da atividade, já tenho experiência com o github pages devido a meu projeto integrador do ano passado. Além disso as instruções estavam bem claras no pdf disponibilizado para a atividade.
+- Não houve dificuldaes na realização da atividade, já tenho experiência com o github pages.
