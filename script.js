@@ -18,4 +18,5 @@ const data = await resp.json();
 apiEl.textContent = JSON.stringify(data, null, 2);
 } catch (err) {
 apiEl.textContent = "Erro no fetch: " + err.message;
-}});
+}
+});
