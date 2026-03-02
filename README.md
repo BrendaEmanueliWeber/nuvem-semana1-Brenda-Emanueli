@@ -6,7 +6,7 @@
 - Criei index.html, style.css e script.js pelo navegador
 - Ativei GitHub Pages (main / root)
 ## Dificuldades
-- Não houve dificuldaes na realização da atividade, já tenho experiência com o github pages.
+- Não houve dificuldades na realização da atividade, já tenho experiência com o github pages.
 
 ## Semana 2 — Consumo de API
 - Implementei requisições HTTP utilizando fetch().
