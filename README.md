@@ -17,3 +17,14 @@
 - Testes realizados via GitHub Pages utilizando F12 (Console e Network).
 
 - As requisições funcionaram corretamente e o JSON foi exibido na página.
+
+## O que foi feito
+Página web com campo para buscar clima por cidade, realizando duas requisições:
+- Geocoding (Open-Meteo) para obter latitude e longitude.
+- Forecast (Open-Meteo) para buscar os dados do clima.
+A última cidade pesquisada é salva no localStorage e preenchida automaticamente ao abrir a página. Também foram adicionadas mensagens de carregamento e erro.
+## APIs utilizadas
+- Open-Meteo Geocoding
+- Open-Meteo Forecast
+## Dificuldades
+Tive dificuldades principalmente na criação do JavaScript, tentei criar o código sozinha, mas no final tive que utilizar o código passado pleo Professor.
